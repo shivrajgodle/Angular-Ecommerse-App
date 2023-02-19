@@ -1,0 +1,87 @@
+{
+  "seller": [
+    {
+      "name": "shivraj godle",
+      "email": "shivraj@gmail.com",
+      "password": "shivraj@123",
+      "id": 1
+    },
+    {
+      "name": "Ganesh godle",
+      "email": "manisha@gmail.com",
+      "password": "manisha@123",
+      "id": 2
+    },
+    {
+      "name": "Ganesh godle",
+      "email": "manisha@gmail.com",
+      "password": "manisha@123",
+      "id": 3
+    },
+    {
+      "name": "Ganesh godale",
+      "email": "manisha@gmail.com",
+      "password": "manisha@124",
+      "id": 4
+    },
+    {
+      "name": "Ganesh godale",
+      "email": "manisha@gmail.com",
+      "password": "ganesh@124",
+      "id": 6
+    },
+    {
+      "name": "sachwala",
+      "password": "sachwala@123",
+      "email": "sachwala@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "sachwala",
+      "password": "sachwala",
+      "email": "sachwala@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "ssd",
+      "password": "sdsd",
+      "email": "dsds",
+      "id": 9
+    },
+    {
+      "name": "xdsd",
+      "password": "dssss",
+      "email": "remalawu@mailinator.com",
+      "id": 10
+    },
+    {
+      "name": "abdul hamid",
+      "password": "abdula",
+      "email": "abdulhamid@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "yoyo",
+      "password": "sdsd",
+      "email": "dsdsd",
+      "id": 12
+    },
+    {
+      "name": "shivaji maharaj",
+      "password": "dfsdfds",
+      "email": "sdfsdfdsfs",
+      "id": 13
+    },
+    {
+      "name": "vishwambhar",
+      "password": "sdsss",
+      "email": "dddfgdfdf",
+      "id": 14
+    },
+    {
+      "email": "hello",
+      "password": "dsd",
+      "id": 15
+    }
+  ]
+}
